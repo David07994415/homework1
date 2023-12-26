@@ -12,6 +12,15 @@ namespace ConsoleApp1
         {
             Console.WriteLine( "1st line in version1" );
             Console.WriteLine("2st line in version mian");
+
+
+            //1st question
+            Console.WriteLine("answer：111");
+
+            //2st question
+            Console.WriteLine("answer：222");
+
+
         }
     }
 }
